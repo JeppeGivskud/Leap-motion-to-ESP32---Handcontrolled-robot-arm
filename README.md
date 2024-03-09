@@ -1,7 +1,7 @@
 # README 
 This is the code for a fourth semester project in which we gathered hand tracking data and used that to move around a 3DOF (Degrees of Freedom) robotic arm made with 3d printed plastic. A showcase of the product can be seen on youtube at https://www.youtube.com/watch?v=b34DfGKIK74.
 
-The code is NOT pretty and it wasn't written with other people in mind, so i'm sorry :) 
+The code is NOT pretty and it wasn't written with other people in mind, so i'm sorry :) Also some of the comments are danish and some a english haha
 
 # Functionality
 Basically a program will run in Processing 4 https://processing.org/
